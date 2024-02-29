@@ -1,0 +1,15 @@
+pandas
+matplotlib
+seaborn
+geopandas
+numpy
+pandas_datareader
+yfinance
+statsmodels
+nltk
+scikit-learn
+gdeltdoc
+torch
+transformers
+scipy
+eventstudy
