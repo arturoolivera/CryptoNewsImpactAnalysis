@@ -1,6 +1,6 @@
 # Introduction to Sentiment Analysis for Cryptocurrency News with FinBERT
 
-In this Jupyter notebook, titled `ToReproduceSentiment.ipynb`, we embark on the journey of retraining the FinBERT model, a specialized transformer model for financial sentiment analysis, using the `CryptoLin_IE_v2.csv` dataset. The objective is to apply the retrained model for sentiment analysis on a dataset of cryptocurrency-related news articles. This process aims to enrich the dataset with sentiment scores, categorizing each news piece into positive, negative, or neutral sentiment. The enriched dataset, named `GA_data_wsentiment.csv`, will serve as an invaluable asset for deeper insights into the cryptocurrency market's reaction to news events.
+In this Jupyter notebook, titled `Sentiment_Analysis_GA.ipynb`, we embark on the journey of retraining the FinBERT model, a specialized transformer model for financial sentiment analysis, using the `CryptoLin_IE_v2.csv` dataset. The objective is to apply the retrained model for sentiment analysis on a dataset of cryptocurrency-related news articles. This process aims to enrich the dataset with sentiment scores, categorizing each news piece into positive, negative, or neutral sentiment. The enriched dataset, named `GA_data_wsentiment.csv`, will serve as an invaluable asset for deeper insights into the cryptocurrency market's reaction to news events.
 
 ## Objective
 
