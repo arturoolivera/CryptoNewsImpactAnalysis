@@ -1,4 +1,4 @@
-# Introduction to GDeltCryptoNewsDownload Notebook
+# Introduction to Data_Ingestion_GA
 
 The purpose of this Jupyter notebook is to demonstrate the process of collecting and consolidating a dataset of news articles related to cryptocurrencies from the Global Database of Events, Language, and Tone (GDELT) project. This dataset, referred to as `GA_data.csv`, is intended for use in risk and fraud analysis projects where understanding the impact of news on the cryptocurrency market is crucial.
 
