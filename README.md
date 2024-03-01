@@ -39,7 +39,7 @@ The **Fama French Model** is a widely recognized asset pricing model that expand
 - **Relevance_Analysis_GA.ipynb**: Trains a machine learning model to score the relevance of news articles, enhancing the dataset with relevance scores.
 - **Sentiment_Analysis_GA.ipynb**: Applies the FinBERT model to assess the sentiment of cryptocurrency-related news, appending sentiment scores to the dataset.
 - **Strength_Analysis_GA.ipynb**: Utilizes the Fama French model to evaluate the financial strength of news items, further enriching the dataset.
-- **EDA_Cryptocurrency_News_Impact.ipynb**: Conducts exploratory data analysis on the enriched dataset to uncover insights into the impact of news on the cryptocurrency market.
+- **Exploratory_Analtsis_GA.ipynb**: Conducts exploratory data analysis on the enriched dataset to uncover insights into the impact of news on the cryptocurrency market.
 
 ## Prerequisites
 
